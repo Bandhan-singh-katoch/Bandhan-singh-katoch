@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android development with Kotlin from Udacity**
 
-- 📫 How to reach me **parbhatbandhan@gmail.com , https://www.linkedin.com/in/bandhan-singh-81ab481a4**
+- 📫 How to reach me **parbhatbandhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
