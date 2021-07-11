@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, I'm Bandhan Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on [Notes taking app](https://github.com/Bandhan-singh-katoch/NotesApp)
 
-- 🌱 I’m currently learning **Android development using Kotlin from Udacity**
+- 👨‍💻 ***#SelfTaught*** Developer.
+ 
+- 📱 Android App developer.
+
+- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+
+- 🔭 I’m currently working on [Notes taking app](https://github.com/Bandhan-singh-katoch/NotesApp)
 
 - 🤝 I’m looking for Internship in **"Android Development using Kotlin"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bandhan-singh-katoch?tab=repositories](https://github.com/Bandhan-singh-katoch?tab=repositories)
 
+
 - 📫 How to reach me **parbhatbandhan@gmail.com**
+
+<p>
+ <img align="left"  src="https://user-images.githubusercontent.com/67560900/107701724-4d943f00-6cdf-11eb-8b74-0c16b173d255.gif" width="250px" alt="androidgif">
+</p>
+
+
+<p>
+ <img align="center" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="350px alt="workgif">
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
