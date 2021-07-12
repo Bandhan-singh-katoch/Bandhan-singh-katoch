@@ -4,7 +4,7 @@
 
 - 👨‍💻 ***#SelfTaught*** Developer.
  
-- 📱 Android App developer.
+- 📱 Android developer.
 
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 
