@@ -23,10 +23,8 @@
 
 
 <p>
- <img align="center" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="350px alt="workgif">
+ <img align="center" src="https://user-images.githubusercontent.com/67175208/125312679-1ee3c880-e352-11eb-91d5-1b9df1d184f7.gif" width="235px alt="workgif">
 </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
