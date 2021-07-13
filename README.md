@@ -6,7 +6,7 @@
  
 - 📱 Android developer.
 
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+- 👨‍💻 Mostly working on Android & Kotlin
 
 - 🔭 I’m currently working on [Notes taking app](https://github.com/Bandhan-singh-katoch/NotesApp)
 
