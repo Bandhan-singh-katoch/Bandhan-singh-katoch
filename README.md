@@ -8,7 +8,7 @@
 
 - 👨‍💻 Mostly working on Android & Kotlin
 
-- 🔭 I’m currently working on [Notes taking app](https://github.com/Bandhan-singh-katoch/NotesApp)
+<!--- 🔭 I’m currently working on [Notes taking app](https://github.com/Bandhan-singh-katoch/NotesApp)--->
 
 - 🤝 I’m looking for Internship in **"Android Development using Kotlin"**
 
