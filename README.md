@@ -4,7 +4,7 @@
 
 - 👨‍💻 ***#SelfTaught*** Developer.
  
-- 📱 Android developer.
+- 📱 Android app developer.
 
 - 👨‍💻 Mostly working on Android & Kotlin
 
@@ -21,8 +21,9 @@
  <img align="left"  src="https://user-images.githubusercontent.com/67560900/107701724-4d943f00-6cdf-11eb-8b74-0c16b173d255.gif" width="250px" alt="androidgif">
 </p>
 
+
 <p>
- <img align="center" src="https://user-images.githubusercontent.com/67560900/107698382-77973280-6cda-11eb-9d30-5735f2becfdc.gif" width="350px alt="workgif">
+ <img src="https://user-images.githubusercontent.com/67175208/126484985-144cc667-e7ce-4350-adeb-423bad395dc2.png" width = "270px">
 </p>
 
 <h3 align="left">Connect with me:</h3>
