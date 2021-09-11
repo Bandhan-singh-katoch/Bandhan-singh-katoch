@@ -42,11 +42,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-singh-katoch&layout=compact&theme=algolia&show_icons=true)
 
-
-
-
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bandhan-singh-katoch&show_icons=true&include_all_commits=true&theme=algolia" alt="Bandhan Singh stats" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-singh-katoch&theme=algolia" alt="Bandhan" />
 
 
     
