@@ -18,9 +18,8 @@
 - 📫 How to reach me **parbhatbandhan@gmail.com**
 
 <p>
- <img align="left"  src="https://user-images.githubusercontent.com/67560900/107701724-4d943f00-6cdf-11eb-8b74-0c16b173d255.gif" width="250px" alt="androidgif">
+ <img align="left"  src="https://user-images.githubusercontent.com/67175208/132958311-4281f9a0-0251-4811-8c13-ed464564514f.gif" width="270px" alt="androidgif">
 </p>
-
 
 <p>
  <img src="https://user-images.githubusercontent.com/67175208/126484985-144cc667-e7ce-4350-adeb-423bad395dc2.png" width = "270px">
