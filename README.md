@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 
-- 👨‍💻 Self Taught
+- 👨‍💻 Self Taught Developer. 
  
 - 📱 Android app developer.
 
