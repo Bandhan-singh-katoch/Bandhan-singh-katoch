@@ -39,22 +39,16 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-singh-katoch&layout=compact&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-singh-katoch&layout=compact&theme=radical&show_icons=true)
 
 <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bandhan-singh-katoch&show_icons=true&include_all_commits=true&theme=algolia" alt="Bandhan Singh stats" /> -->
 
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-singh-katoch&theme=algolia" alt="Bandhan" />
  -->
+
+### Bandhan Singh Github Stats
 <p>
  <img src=./profile-3d-contrib/profile-night-rainbow.svg width = "800px" align="center">
-</p>
-
-<p>
- <img src=./profile-3d-contrib/profile-night-view.svg width = "800px" align="center">
-</p>
- 
- <p>
- <img src=./profile-3d-contrib/profile-night-green.svg width = "800px" align="center">
 </p>
 
 <!-- 
