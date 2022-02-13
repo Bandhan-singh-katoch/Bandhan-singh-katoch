@@ -51,9 +51,6 @@
  <img src=./profile-3d-contrib/profile-night-rainbow.svg width = "800px" align="center">
 </p>
 
-<!-- 
-We can also add video in it also -->
-
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
