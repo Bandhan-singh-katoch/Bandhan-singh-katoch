@@ -63,7 +63,7 @@
 </p>
 
 
-# Watch my contribution graph get eaten by the snake 🐍
+<!-- Watch my contribution graph get eaten by the snake 🐍 -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![Bandhan snake gif](https://github.com/Bandhan-singh-katoch/Bandhan-singh-katoch/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Bandhan snake gif](https://github.com/Bandhan-singh-katoch/Bandhan-singh-katoch/blob/output/github-contribution-grid-snake.svg) -->
