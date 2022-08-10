@@ -57,7 +57,7 @@
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-singh-katoch&theme=algolia" alt="Bandhan" />
  -->
 
-# 📊 Github Stats
+# 📊 Github Stats:
 <p>
  <img src=./profile-3d-contrib/profile-night-rainbow.svg width = "800px" align="center">
 </p>
