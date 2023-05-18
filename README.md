@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://bandhan-singh-katoch.github.io/Bandhan_portfolio.github.io/">Bandhan Singh</a></h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-
-- 👨‍💻 Self Taught Developer. 
  
 - 📱 Android app developer and Full stack web developer.
 
